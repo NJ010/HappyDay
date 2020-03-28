@@ -18,11 +18,12 @@ submit.onclick= function(){
  
 var password =document.getElementById("password").value;
   
-  if(password=="hi bachii"){
+  if(password=="hi naman jain"){
     window.location="./next.html";
 
   }
   else{
-    alert("wrong!!!!!")
+    alert("nooo what is the rply?")
   }
 }
+
